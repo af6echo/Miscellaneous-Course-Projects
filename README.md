@@ -1,5 +1,5 @@
 # Miscellaneous-Course-Projects
-Some of my course projects on Different Topics.
+Some of my course projects on different topics.
 
 ## Some Illustrations:
 
